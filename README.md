@@ -8,6 +8,22 @@ Files and images to recreate a 3D Kouros head
 
 ![](kouros_head.gif)
 
+# Contents
+
+Images folder
+Masks folder
+Photoscan file
+Photoscan project files
+Models folder - .obj, .stl, .mtl, .jpg
+
+# Methodology
+
+The model was created by simply walking around the object and taking pictures with a Nikon D5100.
+
+These were then imported into photoscan and aligned with masking.
+
+The dense point cloud was then generated and edited for cruft. Mesh was then generated and holes closed, texture applied and the model exported for use on Sketchfab and wherever else. All of these processes were done at medium settings except for the mesh creation at high.
+
 # License
 
 CC BY-NC-SA
